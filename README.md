@@ -9,5 +9,11 @@ There 2 Excel Files
 
 The reason for making the cities file separated is due to file reading and writing operations
 
+To add new city
+1. Open Live-Weather.xlsx
+2. Add City name, Add Unit Value(K/C/F), and Add Update value (0 for no updation, 1 for updating values). Note: ALl of the values mention above are required
+3. Run the main.py
+
+
 There is main.py file while loads the Live-Weather.xlsx and checks for all Rows and then updates all necessary rows
 
