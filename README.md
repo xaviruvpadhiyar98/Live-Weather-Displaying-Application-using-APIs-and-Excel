@@ -11,7 +11,9 @@ The reason for making the cities file separated is due to file reading and writi
 
 To add new city
 1. Open Live-Weather.xlsx
-2. Add City name, Add Unit Value(K/C/F), and Add Update value (0 for no updation, 1 for updating values). Note: All of the values mentioned are required
+2. Add City name, Add Unit Value(K/C/F), and Add Update value (0 for no updation, 1 for updating values). 
+   Note: All of the values mentioned are required. Rest all values will be updated when Program will run and will see the Update parameter.
+   
 3. Run the main.py
 
 
